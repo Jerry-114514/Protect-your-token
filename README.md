@@ -1,2 +1,2 @@
-# QPet-NaiLong
-A NaiLong Pet on your Desktop
+#Protect Your Token
+A single game to protect "your token" against 5 ai
